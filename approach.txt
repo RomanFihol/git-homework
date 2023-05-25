@@ -2,3 +2,4 @@ The more tests you perform, the more code,
 functionality, and non-functionality you can cover. 
 This is where testing automation significantly increases your code coverage and overall leads to an increase in software quality, since you are able to significantly increase the amount of code you are covering. 
 More coverage leads to faster time to market and increase in business competitiveness.
+ABC
